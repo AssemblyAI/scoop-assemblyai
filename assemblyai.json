@@ -1,0 +1,22 @@
+{
+    "version": "1.11.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.11.1/assemblyai_1.11.1_windows_386.tar.gz",
+            "bin": [
+                "assemblyai.exe"
+            ],
+            "hash": "efb024c2063d954609ddb747e35721c883e918408fcb7ccfc85f0dba8183f449"
+        },
+        "64bit": {
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.11.1/assemblyai_1.11.1_windows_amd64.tar.gz",
+            "bin": [
+                "assemblyai.exe"
+            ],
+            "hash": "5ec810668854b898336ecb4f81525259d9239aa7118b252da0203c3cf34171ce"
+        }
+    },
+    "homepage": "https://www.assemblyai.com/",
+    "license": "Apache 2.0",
+    "description": "A quick and easy way to test assemblyAI's transcription features on your terminal"
+}
