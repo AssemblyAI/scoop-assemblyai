@@ -1,19 +1,19 @@
 {
-    "version": "1.16",
+    "version": "1.16.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.16/assemblyai_1.16_windows_386.tar.gz",
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.16.1/assemblyai_1.16.1_windows_386.tar.gz",
             "bin": [
                 "assemblyai.exe"
             ],
-            "hash": "2ba159f94a353aa116e00064d7cfd52e7fc3c652603f24461c903fb0d038676d"
+            "hash": "2e167b51d879314804ca89c7295cd7bb5419178ee55dedb3c4a09d2d3c35a8a0"
         },
         "64bit": {
-            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.16/assemblyai_1.16_windows_amd64.tar.gz",
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.16.1/assemblyai_1.16.1_windows_amd64.tar.gz",
             "bin": [
                 "assemblyai.exe"
             ],
-            "hash": "b06b4257cc4fb52f841b5dcbd702a47515481d36bc845ba6e3d0e2f0c55fa94a"
+            "hash": "bfb48580f2c3c2ded4deeb9dafbd0ed573fa48d5033595e01686200c4dc22452"
         }
     },
     "homepage": "https://www.assemblyai.com/",
