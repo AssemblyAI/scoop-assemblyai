@@ -1,19 +1,26 @@
 {
-    "version": "1.17.3",
+    "version": "1.17.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.17.3/assemblyai_1.17.3_windows_386.tar.gz",
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.17.4/assemblyai_1.17.4_windows_386.tar.gz",
             "bin": [
                 "assemblyai.exe"
             ],
-            "hash": "2639baba376dc94136a70ef5d260aaac4bcd34bba320882ac3c9580bef232f1d"
+            "hash": "1f5ed75449d199e0b5bcb60353696eead29be35ddd996ecf1dd80fa5765c9e1d"
         },
         "64bit": {
-            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.17.3/assemblyai_1.17.3_windows_amd64.tar.gz",
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.17.4/assemblyai_1.17.4_windows_amd64.tar.gz",
             "bin": [
                 "assemblyai.exe"
             ],
-            "hash": "204342b01577ad6cffdab71522814bcfa85dd08fe337e7cbcb97c803b5a23685"
+            "hash": "1a28f54cf550b58399456951492f193d3bb4cecf95f5be278022f5fc410ba947"
+        },
+        "arm64": {
+            "url": "https://github.com/AssemblyAI/assemblyai-cli/releases/download/v1.17.4/assemblyai_1.17.4_windows_arm64.tar.gz",
+            "bin": [
+                "assemblyai.exe"
+            ],
+            "hash": "ee3daa703e07b52e0b9fac56bf2dcb799182aefb5ff972b7142e38c64b17ac85"
         }
     },
     "homepage": "https://www.assemblyai.com/",
